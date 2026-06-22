@@ -1,0 +1,129 @@
+:root {
+    --lm-primary: #1E3A5F;
+    --lm-primary-dark: #14283F;
+    --lm-secondary: #D4A017;
+    --lm-secondary-dark: #B8860B;
+    --lm-bg: #F5F7FA;
+    --lm-surface: #FFFFFF;
+    --lm-text: #1F2937;
+    --lm-muted: #6B7280;
+    --lm-border: #E5E7EB;
+}
+
+html,
+body {
+    background-color: var(--lm-bg);
+    color: var(--lm-text);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+.lm-page {
+    padding: 24px;
+}
+
+.lm-page-container {
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+.lm-page-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 16px;
+    margin-bottom: 24px;
+}
+
+.lm-page-title {
+    color: var(--lm-primary);
+    font-size: 1.75rem;
+    font-weight: 700;
+    margin: 0;
+}
+
+.lm-page-subtitle {
+    color: var(--lm-muted);
+    margin-top: 4px;
+}
+
+.lm-card {
+    background-color: var(--lm-surface);
+    border: 1px solid var(--lm-border);
+    border-radius: 16px;
+    padding: 24px;
+    box-shadow: 0 8px 24px rgba(15, 23, 42, 0.06);
+}
+
+.lm-section-title {
+    color: var(--lm-primary);
+    font-size: 1.1rem;
+    font-weight: 700;
+    margin-bottom: 16px;
+}
+
+.lm-actions {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex-wrap: wrap;
+}
+
+.lm-muted {
+    color: var(--lm-muted);
+}
+
+.lm-document-page {
+    max-width: 900px;
+    margin: 0 auto;
+    background: white;
+    color: black;
+    padding: 56px;
+    min-height: 1120px;
+    box-shadow: 0 8px 32px rgba(15, 23, 42, 0.12);
+    font-family: "Times New Roman", Times, serif;
+    line-height: 1.45;
+}
+
+.lm-document-title {
+    text-align: center;
+    font-size: 1.4rem;
+    font-weight: bold;
+    margin-bottom: 36px;
+}
+
+.lm-signature-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 64px;
+    margin-top: 72px;
+}
+
+.lm-signature-line {
+    border-top: 1px solid black;
+    text-align: center;
+    padding-top: 6px;
+    font-weight: bold;
+}
+
+@media print {
+    body {
+        background: white;
+    }
+
+    .mud-appbar,
+    .mud-drawer,
+    .lm-no-print {
+        display: none !important;
+    }
+
+    .lm-page {
+        padding: 0;
+    }
+
+    .lm-document-page {
+        box-shadow: none;
+        max-width: none;
+        min-height: auto;
+        padding: 0;
+    }
+}

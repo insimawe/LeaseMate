@@ -1,0 +1,11 @@
+C:\Users\bauti\OneDrive\Documents\Personal Project\LeaseMate\LeaseMate.Core\bin\Debug\net10.0\LeaseMate.Core.deps.json
+C:\Users\bauti\OneDrive\Documents\Personal Project\LeaseMate\LeaseMate.Core\bin\Debug\net10.0\LeaseMate.Core.dll
+C:\Users\bauti\OneDrive\Documents\Personal Project\LeaseMate\LeaseMate.Core\bin\Debug\net10.0\LeaseMate.Core.pdb
+C:\Users\bauti\OneDrive\Documents\Personal Project\LeaseMate\LeaseMate.Core\obj\Debug\net10.0\LeaseMate.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bauti\OneDrive\Documents\Personal Project\LeaseMate\LeaseMate.Core\obj\Debug\net10.0\LeaseMate.Core.AssemblyInfoInputs.cache
+C:\Users\bauti\OneDrive\Documents\Personal Project\LeaseMate\LeaseMate.Core\obj\Debug\net10.0\LeaseMate.Core.AssemblyInfo.cs
+C:\Users\bauti\OneDrive\Documents\Personal Project\LeaseMate\LeaseMate.Core\obj\Debug\net10.0\LeaseMate.Core.csproj.CoreCompileInputs.cache
+C:\Users\bauti\OneDrive\Documents\Personal Project\LeaseMate\LeaseMate.Core\obj\Debug\net10.0\LeaseMate.Core.dll
+C:\Users\bauti\OneDrive\Documents\Personal Project\LeaseMate\LeaseMate.Core\obj\Debug\net10.0\refint\LeaseMate.Core.dll
+C:\Users\bauti\OneDrive\Documents\Personal Project\LeaseMate\LeaseMate.Core\obj\Debug\net10.0\LeaseMate.Core.pdb
+C:\Users\bauti\OneDrive\Documents\Personal Project\LeaseMate\LeaseMate.Core\obj\Debug\net10.0\ref\LeaseMate.Core.dll

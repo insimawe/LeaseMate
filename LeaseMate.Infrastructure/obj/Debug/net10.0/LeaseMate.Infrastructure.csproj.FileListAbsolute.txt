@@ -1,0 +1,17 @@
+C:\Users\bauti\OneDrive\Documents\Personal Project\LeaseMate\LeaseMate.Infrastructure\bin\Debug\net10.0\LeaseMate.Infrastructure.deps.json
+C:\Users\bauti\OneDrive\Documents\Personal Project\LeaseMate\LeaseMate.Infrastructure\bin\Debug\net10.0\LeaseMate.Infrastructure.runtimeconfig.json
+C:\Users\bauti\OneDrive\Documents\Personal Project\LeaseMate\LeaseMate.Infrastructure\bin\Debug\net10.0\LeaseMate.Infrastructure.dll
+C:\Users\bauti\OneDrive\Documents\Personal Project\LeaseMate\LeaseMate.Infrastructure\bin\Debug\net10.0\LeaseMate.Infrastructure.pdb
+C:\Users\bauti\OneDrive\Documents\Personal Project\LeaseMate\LeaseMate.Infrastructure\bin\Debug\net10.0\LeaseMate.Core.dll
+C:\Users\bauti\OneDrive\Documents\Personal Project\LeaseMate\LeaseMate.Infrastructure\bin\Debug\net10.0\LeaseMate.Core.pdb
+C:\Users\bauti\OneDrive\Documents\Personal Project\LeaseMate\LeaseMate.Infrastructure\obj\Debug\net10.0\LeaseMate.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\bauti\OneDrive\Documents\Personal Project\LeaseMate\LeaseMate.Infrastructure\obj\Debug\net10.0\LeaseMate.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bauti\OneDrive\Documents\Personal Project\LeaseMate\LeaseMate.Infrastructure\obj\Debug\net10.0\LeaseMate.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\bauti\OneDrive\Documents\Personal Project\LeaseMate\LeaseMate.Infrastructure\obj\Debug\net10.0\LeaseMate.Infrastructure.AssemblyInfo.cs
+C:\Users\bauti\OneDrive\Documents\Personal Project\LeaseMate\LeaseMate.Infrastructure\obj\Debug\net10.0\LeaseMate.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\bauti\OneDrive\Documents\Personal Project\LeaseMate\LeaseMate.Infrastructure\obj\Debug\net10.0\LeaseMat.3BD95293.Up2Date
+C:\Users\bauti\OneDrive\Documents\Personal Project\LeaseMate\LeaseMate.Infrastructure\obj\Debug\net10.0\LeaseMate.Infrastructure.dll
+C:\Users\bauti\OneDrive\Documents\Personal Project\LeaseMate\LeaseMate.Infrastructure\obj\Debug\net10.0\refint\LeaseMate.Infrastructure.dll
+C:\Users\bauti\OneDrive\Documents\Personal Project\LeaseMate\LeaseMate.Infrastructure\obj\Debug\net10.0\LeaseMate.Infrastructure.pdb
+C:\Users\bauti\OneDrive\Documents\Personal Project\LeaseMate\LeaseMate.Infrastructure\obj\Debug\net10.0\LeaseMate.Infrastructure.genruntimeconfig.cache
+C:\Users\bauti\OneDrive\Documents\Personal Project\LeaseMate\LeaseMate.Infrastructure\obj\Debug\net10.0\ref\LeaseMate.Infrastructure.dll

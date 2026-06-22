@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="LeaseMate.Core/LeaseMate.Core.csproj" />
+  <Project Path="LeaseMate.Infrastructure/LeaseMate.Infrastructure.csproj" />
+  <Project Path="LeaseMate.Web/LeaseMate.Web.csproj" />
+</Solution>

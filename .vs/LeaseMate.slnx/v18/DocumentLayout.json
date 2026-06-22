@@ -1,0 +1,559 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{698E2721-5860-3C1C-8B75-2451B4643F07}|LeaseMate.Infrastructure\\LeaseMate.Infrastructure.csproj|c:\\users\\bauti\\onedrive\\documents\\personal project\\leasemate\\leasemate.infrastructure\\services\\filestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698E2721-5860-3C1C-8B75-2451B4643F07}|LeaseMate.Infrastructure\\LeaseMate.Infrastructure.csproj|solutionrelative:leasemate.infrastructure\\services\\filestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9221E7-55FA-8667-1219-3402D497ABDA}|LeaseMate.Core\\LeaseMate.Core.csproj|c:\\users\\bauti\\onedrive\\documents\\personal project\\leasemate\\leasemate.core\\entities\\storedfileresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9221E7-55FA-8667-1219-3402D497ABDA}|LeaseMate.Core\\LeaseMate.Core.csproj|solutionrelative:leasemate.core\\entities\\storedfileresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC4E90D5-DE7A-1AD2-0112-AF17CFD553EC}|LeaseMate.Web\\LeaseMate.Web.csproj|c:\\users\\bauti\\onedrive\\documents\\personal project\\leasemate\\leasemate.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC4E90D5-DE7A-1AD2-0112-AF17CFD553EC}|LeaseMate.Web\\LeaseMate.Web.csproj|solutionrelative:leasemate.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC4E90D5-DE7A-1AD2-0112-AF17CFD553EC}|LeaseMate.Web\\LeaseMate.Web.csproj|c:\\users\\bauti\\onedrive\\documents\\personal project\\leasemate\\leasemate.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BC4E90D5-DE7A-1AD2-0112-AF17CFD553EC}|LeaseMate.Web\\LeaseMate.Web.csproj|solutionrelative:leasemate.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC4E90D5-DE7A-1AD2-0112-AF17CFD553EC}|LeaseMate.Web\\LeaseMate.Web.csproj|c:\\users\\bauti\\onedrive\\documents\\personal project\\leasemate\\leasemate.web\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC4E90D5-DE7A-1AD2-0112-AF17CFD553EC}|LeaseMate.Web\\LeaseMate.Web.csproj|solutionrelative:leasemate.web\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{698E2721-5860-3C1C-8B75-2451B4643F07}|LeaseMate.Infrastructure\\LeaseMate.Infrastructure.csproj|c:\\users\\bauti\\onedrive\\documents\\personal project\\leasemate\\leasemate.infrastructure\\services\\documentgeneratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698E2721-5860-3C1C-8B75-2451B4643F07}|LeaseMate.Infrastructure\\LeaseMate.Infrastructure.csproj|solutionrelative:leasemate.infrastructure\\services\\documentgeneratorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{698E2721-5860-3C1C-8B75-2451B4643F07}|LeaseMate.Infrastructure\\LeaseMate.Infrastructure.csproj|c:\\users\\bauti\\onedrive\\documents\\personal project\\leasemate\\leasemate.infrastructure\\services\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698E2721-5860-3C1C-8B75-2451B4643F07}|LeaseMate.Infrastructure\\LeaseMate.Infrastructure.csproj|solutionrelative:leasemate.infrastructure\\services\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{698E2721-5860-3C1C-8B75-2451B4643F07}|LeaseMate.Infrastructure\\LeaseMate.Infrastructure.csproj|c:\\users\\bauti\\onedrive\\documents\\personal project\\leasemate\\leasemate.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698E2721-5860-3C1C-8B75-2451B4643F07}|LeaseMate.Infrastructure\\LeaseMate.Infrastructure.csproj|solutionrelative:leasemate.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{698E2721-5860-3C1C-8B75-2451B4643F07}|LeaseMate.Infrastructure\\LeaseMate.Infrastructure.csproj|c:\\users\\bauti\\onedrive\\documents\\personal project\\leasemate\\leasemate.infrastructure\\leasemate.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{698E2721-5860-3C1C-8B75-2451B4643F07}|LeaseMate.Infrastructure\\LeaseMate.Infrastructure.csproj|solutionrelative:leasemate.infrastructure\\leasemate.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9221E7-55FA-8667-1219-3402D497ABDA}|LeaseMate.Core\\LeaseMate.Core.csproj|c:\\users\\bauti\\onedrive\\documents\\personal project\\leasemate\\leasemate.core\\enums\\documenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9221E7-55FA-8667-1219-3402D497ABDA}|LeaseMate.Core\\LeaseMate.Core.csproj|solutionrelative:leasemate.core\\enums\\documenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9221E7-55FA-8667-1219-3402D497ABDA}|LeaseMate.Core\\LeaseMate.Core.csproj|c:\\users\\bauti\\onedrive\\documents\\personal project\\leasemate\\leasemate.core\\enums\\attachmenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9221E7-55FA-8667-1219-3402D497ABDA}|LeaseMate.Core\\LeaseMate.Core.csproj|solutionrelative:leasemate.core\\enums\\attachmenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9221E7-55FA-8667-1219-3402D497ABDA}|LeaseMate.Core\\LeaseMate.Core.csproj|c:\\users\\bauti\\onedrive\\documents\\personal project\\leasemate\\leasemate.core\\enums\\contractstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9221E7-55FA-8667-1219-3402D497ABDA}|LeaseMate.Core\\LeaseMate.Core.csproj|solutionrelative:leasemate.core\\enums\\contractstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9221E7-55FA-8667-1219-3402D497ABDA}|LeaseMate.Core\\LeaseMate.Core.csproj|c:\\users\\bauti\\onedrive\\documents\\personal project\\leasemate\\leasemate.core\\entities\\generateddocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9221E7-55FA-8667-1219-3402D497ABDA}|LeaseMate.Core\\LeaseMate.Core.csproj|solutionrelative:leasemate.core\\entities\\generateddocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9221E7-55FA-8667-1219-3402D497ABDA}|LeaseMate.Core\\LeaseMate.Core.csproj|c:\\users\\bauti\\onedrive\\documents\\personal project\\leasemate\\leasemate.core\\entities\\contractattachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9221E7-55FA-8667-1219-3402D497ABDA}|LeaseMate.Core\\LeaseMate.Core.csproj|solutionrelative:leasemate.core\\entities\\contractattachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9221E7-55FA-8667-1219-3402D497ABDA}|LeaseMate.Core\\LeaseMate.Core.csproj|c:\\users\\bauti\\onedrive\\documents\\personal project\\leasemate\\leasemate.core\\entities\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9221E7-55FA-8667-1219-3402D497ABDA}|LeaseMate.Core\\LeaseMate.Core.csproj|solutionrelative:leasemate.core\\entities\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC4E90D5-DE7A-1AD2-0112-AF17CFD553EC}|LeaseMate.Web\\LeaseMate.Web.csproj|c:\\users\\bauti\\onedrive\\documents\\personal project\\leasemate\\leasemate.web\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BC4E90D5-DE7A-1AD2-0112-AF17CFD553EC}|LeaseMate.Web\\LeaseMate.Web.csproj|solutionrelative:leasemate.web\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC4E90D5-DE7A-1AD2-0112-AF17CFD553EC}|LeaseMate.Web\\LeaseMate.Web.csproj|c:\\users\\bauti\\onedrive\\documents\\personal project\\leasemate\\leasemate.web\\components\\shared\\documentactioncard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC4E90D5-DE7A-1AD2-0112-AF17CFD553EC}|LeaseMate.Web\\LeaseMate.Web.csproj|solutionrelative:leasemate.web\\components\\shared\\documentactioncard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC4E90D5-DE7A-1AD2-0112-AF17CFD553EC}|LeaseMate.Web\\LeaseMate.Web.csproj|c:\\users\\bauti\\onedrive\\documents\\personal project\\leasemate\\leasemate.web\\components\\shared\\contractsummarycard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC4E90D5-DE7A-1AD2-0112-AF17CFD553EC}|LeaseMate.Web\\LeaseMate.Web.csproj|solutionrelative:leasemate.web\\components\\shared\\contractsummarycard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC4E90D5-DE7A-1AD2-0112-AF17CFD553EC}|LeaseMate.Web\\LeaseMate.Web.csproj|c:\\users\\bauti\\onedrive\\documents\\personal project\\leasemate\\leasemate.web\\components\\shared\\emptystate.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC4E90D5-DE7A-1AD2-0112-AF17CFD553EC}|LeaseMate.Web\\LeaseMate.Web.csproj|solutionrelative:leasemate.web\\components\\shared\\emptystate.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC4E90D5-DE7A-1AD2-0112-AF17CFD553EC}|LeaseMate.Web\\LeaseMate.Web.csproj|c:\\users\\bauti\\onedrive\\documents\\personal project\\leasemate\\leasemate.web\\components\\shared\\statuschip.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC4E90D5-DE7A-1AD2-0112-AF17CFD553EC}|LeaseMate.Web\\LeaseMate.Web.csproj|solutionrelative:leasemate.web\\components\\shared\\statuschip.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC4E90D5-DE7A-1AD2-0112-AF17CFD553EC}|LeaseMate.Web\\LeaseMate.Web.csproj|c:\\users\\bauti\\onedrive\\documents\\personal project\\leasemate\\leasemate.web\\components\\shared\\pageheader.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC4E90D5-DE7A-1AD2-0112-AF17CFD553EC}|LeaseMate.Web\\LeaseMate.Web.csproj|solutionrelative:leasemate.web\\components\\shared\\pageheader.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC4E90D5-DE7A-1AD2-0112-AF17CFD553EC}|LeaseMate.Web\\LeaseMate.Web.csproj|c:\\users\\bauti\\onedrive\\documents\\personal project\\leasemate\\leasemate.web\\components\\pages\\contracts\\receipt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC4E90D5-DE7A-1AD2-0112-AF17CFD553EC}|LeaseMate.Web\\LeaseMate.Web.csproj|solutionrelative:leasemate.web\\components\\pages\\contracts\\receipt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC4E90D5-DE7A-1AD2-0112-AF17CFD553EC}|LeaseMate.Web\\LeaseMate.Web.csproj|c:\\users\\bauti\\onedrive\\documents\\personal project\\leasemate\\leasemate.web\\components\\pages\\contracts\\preview.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC4E90D5-DE7A-1AD2-0112-AF17CFD553EC}|LeaseMate.Web\\LeaseMate.Web.csproj|solutionrelative:leasemate.web\\components\\pages\\contracts\\preview.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC4E90D5-DE7A-1AD2-0112-AF17CFD553EC}|LeaseMate.Web\\LeaseMate.Web.csproj|c:\\users\\bauti\\onedrive\\documents\\personal project\\leasemate\\leasemate.web\\components\\pages\\contracts\\details.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC4E90D5-DE7A-1AD2-0112-AF17CFD553EC}|LeaseMate.Web\\LeaseMate.Web.csproj|solutionrelative:leasemate.web\\components\\pages\\contracts\\details.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC4E90D5-DE7A-1AD2-0112-AF17CFD553EC}|LeaseMate.Web\\LeaseMate.Web.csproj|c:\\users\\bauti\\onedrive\\documents\\personal project\\leasemate\\leasemate.web\\components\\pages\\contracts\\editrazor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC4E90D5-DE7A-1AD2-0112-AF17CFD553EC}|LeaseMate.Web\\LeaseMate.Web.csproj|solutionrelative:leasemate.web\\components\\pages\\contracts\\editrazor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC4E90D5-DE7A-1AD2-0112-AF17CFD553EC}|LeaseMate.Web\\LeaseMate.Web.csproj|c:\\users\\bauti\\onedrive\\documents\\personal project\\leasemate\\leasemate.web\\components\\pages\\contracts\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC4E90D5-DE7A-1AD2-0112-AF17CFD553EC}|LeaseMate.Web\\LeaseMate.Web.csproj|solutionrelative:leasemate.web\\components\\pages\\contracts\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC4E90D5-DE7A-1AD2-0112-AF17CFD553EC}|LeaseMate.Web\\LeaseMate.Web.csproj|c:\\users\\bauti\\onedrive\\documents\\personal project\\leasemate\\leasemate.web\\components\\pages\\dashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC4E90D5-DE7A-1AD2-0112-AF17CFD553EC}|LeaseMate.Web\\LeaseMate.Web.csproj|solutionrelative:leasemate.web\\components\\pages\\dashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC4E90D5-DE7A-1AD2-0112-AF17CFD553EC}|LeaseMate.Web\\LeaseMate.Web.csproj|c:\\users\\bauti\\onedrive\\documents\\personal project\\leasemate\\leasemate.web\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC4E90D5-DE7A-1AD2-0112-AF17CFD553EC}|LeaseMate.Web\\LeaseMate.Web.csproj|solutionrelative:leasemate.web\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC4E90D5-DE7A-1AD2-0112-AF17CFD553EC}|LeaseMate.Web\\LeaseMate.Web.csproj|c:\\users\\bauti\\onedrive\\documents\\personal project\\leasemate\\leasemate.web\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC4E90D5-DE7A-1AD2-0112-AF17CFD553EC}|LeaseMate.Web\\LeaseMate.Web.csproj|solutionrelative:leasemate.web\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC4E90D5-DE7A-1AD2-0112-AF17CFD553EC}|LeaseMate.Web\\LeaseMate.Web.csproj|c:\\users\\bauti\\onedrive\\documents\\personal project\\leasemate\\leasemate.web\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC4E90D5-DE7A-1AD2-0112-AF17CFD553EC}|LeaseMate.Web\\LeaseMate.Web.csproj|solutionrelative:leasemate.web\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC4E90D5-DE7A-1AD2-0112-AF17CFD553EC}|LeaseMate.Web\\LeaseMate.Web.csproj|c:\\users\\bauti\\onedrive\\documents\\personal project\\leasemate\\leasemate.web\\components\\pages\\notfound.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC4E90D5-DE7A-1AD2-0112-AF17CFD553EC}|LeaseMate.Web\\LeaseMate.Web.csproj|solutionrelative:leasemate.web\\components\\pages\\notfound.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StoredFileResult.cs",
+              "DocumentMoniker": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Core\\Entities\\StoredFileResult.cs",
+              "RelativeDocumentMoniker": "LeaseMate.Core\\Entities\\StoredFileResult.cs",
+              "ToolTip": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Core\\Entities\\StoredFileResult.cs",
+              "RelativeToolTip": "LeaseMate.Core\\Entities\\StoredFileResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T01:35:31.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Infrastructure\\Services\\FileStorageService.cs",
+              "RelativeDocumentMoniker": "LeaseMate.Infrastructure\\Services\\FileStorageService.cs",
+              "ToolTip": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Infrastructure\\Services\\FileStorageService.cs",
+              "RelativeToolTip": "LeaseMate.Infrastructure\\Services\\FileStorageService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T01:35:00.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "NotFound.razor",
+              "DocumentMoniker": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Web\\Components\\Pages\\NotFound.razor",
+              "RelativeDocumentMoniker": "LeaseMate.Web\\Components\\Pages\\NotFound.razor",
+              "ToolTip": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Web\\Components\\Pages\\NotFound.razor",
+              "RelativeToolTip": "LeaseMate.Web\\Components\\Pages\\NotFound.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-17T01:31:08.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Web\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "LeaseMate.Web\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Web\\Components\\Routes.razor",
+              "RelativeToolTip": "LeaseMate.Web\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-17T01:29:51.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DocumentGeneratorService.cs",
+              "DocumentMoniker": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Infrastructure\\Services\\DocumentGeneratorService.cs",
+              "RelativeDocumentMoniker": "LeaseMate.Infrastructure\\Services\\DocumentGeneratorService.cs",
+              "ToolTip": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Infrastructure\\Services\\DocumentGeneratorService.cs",
+              "RelativeToolTip": "LeaseMate.Infrastructure\\Services\\DocumentGeneratorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T01:28:27.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContactService.cs",
+              "DocumentMoniker": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Infrastructure\\Services\\ContactService.cs",
+              "RelativeDocumentMoniker": "LeaseMate.Infrastructure\\Services\\ContactService.cs",
+              "ToolTip": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Infrastructure\\Services\\ContactService.cs",
+              "RelativeToolTip": "LeaseMate.Infrastructure\\Services\\ContactService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T01:27:16.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Web\\Program.cs",
+              "RelativeDocumentMoniker": "LeaseMate.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Web\\Program.cs",
+              "RelativeToolTip": "LeaseMate.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T01:24:59.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "LeaseMate.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Web\\appsettings.json",
+              "RelativeToolTip": "LeaseMate.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-17T01:24:27.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "LeaseMate.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "LeaseMate.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T01:24:11.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LeaseMate.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Infrastructure\\LeaseMate.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "LeaseMate.Infrastructure\\LeaseMate.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Infrastructure\\LeaseMate.Infrastructure.csproj",
+              "RelativeToolTip": "LeaseMate.Infrastructure\\LeaseMate.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-17T01:23:26.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DocumentType.cs",
+              "DocumentMoniker": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Core\\Enums\\DocumentType.cs",
+              "RelativeDocumentMoniker": "LeaseMate.Core\\Enums\\DocumentType.cs",
+              "ToolTip": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Core\\Enums\\DocumentType.cs",
+              "RelativeToolTip": "LeaseMate.Core\\Enums\\DocumentType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T01:23:50.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AttachmentType.cs",
+              "DocumentMoniker": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Core\\Enums\\AttachmentType.cs",
+              "RelativeDocumentMoniker": "LeaseMate.Core\\Enums\\AttachmentType.cs",
+              "ToolTip": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Core\\Enums\\AttachmentType.cs",
+              "RelativeToolTip": "LeaseMate.Core\\Enums\\AttachmentType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T01:23:38.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ContractStatus.cs",
+              "DocumentMoniker": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Core\\Enums\\ContractStatus.cs",
+              "RelativeDocumentMoniker": "LeaseMate.Core\\Enums\\ContractStatus.cs",
+              "ToolTip": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Core\\Enums\\ContractStatus.cs",
+              "RelativeToolTip": "LeaseMate.Core\\Enums\\ContractStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T01:23:24.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GeneratedDocument.cs",
+              "DocumentMoniker": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Core\\Entities\\GeneratedDocument.cs",
+              "RelativeDocumentMoniker": "LeaseMate.Core\\Entities\\GeneratedDocument.cs",
+              "ToolTip": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Core\\Entities\\GeneratedDocument.cs",
+              "RelativeToolTip": "LeaseMate.Core\\Entities\\GeneratedDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T01:22:42.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ContractAttachment.cs",
+              "DocumentMoniker": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Core\\Entities\\ContractAttachment.cs",
+              "RelativeDocumentMoniker": "LeaseMate.Core\\Entities\\ContractAttachment.cs",
+              "ToolTip": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Core\\Entities\\ContractAttachment.cs",
+              "RelativeToolTip": "LeaseMate.Core\\Entities\\ContractAttachment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T01:22:26.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Contract.cs",
+              "DocumentMoniker": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Core\\Entities\\Contract.cs",
+              "RelativeDocumentMoniker": "LeaseMate.Core\\Entities\\Contract.cs",
+              "ToolTip": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Core\\Entities\\Contract.cs",
+              "RelativeToolTip": "LeaseMate.Core\\Entities\\Contract.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAzwEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T01:21:29.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Web\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "LeaseMate.Web\\wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Web\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "LeaseMate.Web\\wwwroot\\css\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-06-17T01:20:43.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DocumentActionCard.razor",
+              "DocumentMoniker": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Web\\Components\\Shared\\DocumentActionCard.razor",
+              "RelativeDocumentMoniker": "LeaseMate.Web\\Components\\Shared\\DocumentActionCard.razor",
+              "ToolTip": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Web\\Components\\Shared\\DocumentActionCard.razor",
+              "RelativeToolTip": "LeaseMate.Web\\Components\\Shared\\DocumentActionCard.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-17T01:19:15.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ContractSummaryCard.razor",
+              "DocumentMoniker": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Web\\Components\\Shared\\ContractSummaryCard.razor",
+              "RelativeDocumentMoniker": "LeaseMate.Web\\Components\\Shared\\ContractSummaryCard.razor",
+              "ToolTip": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Web\\Components\\Shared\\ContractSummaryCard.razor",
+              "RelativeToolTip": "LeaseMate.Web\\Components\\Shared\\ContractSummaryCard.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-17T01:19:07.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EmptyState.razor",
+              "DocumentMoniker": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Web\\Components\\Shared\\EmptyState.razor",
+              "RelativeDocumentMoniker": "LeaseMate.Web\\Components\\Shared\\EmptyState.razor",
+              "ToolTip": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Web\\Components\\Shared\\EmptyState.razor",
+              "RelativeToolTip": "LeaseMate.Web\\Components\\Shared\\EmptyState.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-17T01:18:59.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StatusChip.razor",
+              "DocumentMoniker": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Web\\Components\\Shared\\StatusChip.razor",
+              "RelativeDocumentMoniker": "LeaseMate.Web\\Components\\Shared\\StatusChip.razor",
+              "ToolTip": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Web\\Components\\Shared\\StatusChip.razor",
+              "RelativeToolTip": "LeaseMate.Web\\Components\\Shared\\StatusChip.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-17T01:18:51.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PageHeader.razor",
+              "DocumentMoniker": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Web\\Components\\Shared\\PageHeader.razor",
+              "RelativeDocumentMoniker": "LeaseMate.Web\\Components\\Shared\\PageHeader.razor",
+              "ToolTip": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Web\\Components\\Shared\\PageHeader.razor",
+              "RelativeToolTip": "LeaseMate.Web\\Components\\Shared\\PageHeader.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-17T01:18:44.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Receipt.razor",
+              "DocumentMoniker": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Web\\Components\\Pages\\Contracts\\Receipt.razor",
+              "RelativeDocumentMoniker": "LeaseMate.Web\\Components\\Pages\\Contracts\\Receipt.razor",
+              "ToolTip": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Web\\Components\\Pages\\Contracts\\Receipt.razor",
+              "RelativeToolTip": "LeaseMate.Web\\Components\\Pages\\Contracts\\Receipt.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-17T01:18:34.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Preview.razor",
+              "DocumentMoniker": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Web\\Components\\Pages\\Contracts\\Preview.razor",
+              "RelativeDocumentMoniker": "LeaseMate.Web\\Components\\Pages\\Contracts\\Preview.razor",
+              "ToolTip": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Web\\Components\\Pages\\Contracts\\Preview.razor",
+              "RelativeToolTip": "LeaseMate.Web\\Components\\Pages\\Contracts\\Preview.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-17T01:18:25.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Details.razor",
+              "DocumentMoniker": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Web\\Components\\Pages\\Contracts\\Details.razor",
+              "RelativeDocumentMoniker": "LeaseMate.Web\\Components\\Pages\\Contracts\\Details.razor",
+              "ToolTip": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Web\\Components\\Pages\\Contracts\\Details.razor",
+              "RelativeToolTip": "LeaseMate.Web\\Components\\Pages\\Contracts\\Details.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-17T01:18:18.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Editrazor.razor",
+              "DocumentMoniker": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Web\\Components\\Pages\\Contracts\\Editrazor.razor",
+              "RelativeDocumentMoniker": "LeaseMate.Web\\Components\\Pages\\Contracts\\Editrazor.razor",
+              "ToolTip": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Web\\Components\\Pages\\Contracts\\Editrazor.razor",
+              "RelativeToolTip": "LeaseMate.Web\\Components\\Pages\\Contracts\\Editrazor.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-17T01:18:09.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Create.razor",
+              "DocumentMoniker": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Web\\Components\\Pages\\Contracts\\Create.razor",
+              "RelativeDocumentMoniker": "LeaseMate.Web\\Components\\Pages\\Contracts\\Create.razor",
+              "ToolTip": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Web\\Components\\Pages\\Contracts\\Create.razor",
+              "RelativeToolTip": "LeaseMate.Web\\Components\\Pages\\Contracts\\Create.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-17T01:18:00.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Dashboard.razor",
+              "DocumentMoniker": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Web\\Components\\Pages\\Dashboard.razor",
+              "RelativeDocumentMoniker": "LeaseMate.Web\\Components\\Pages\\Dashboard.razor",
+              "ToolTip": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Web\\Components\\Pages\\Dashboard.razor",
+              "RelativeToolTip": "LeaseMate.Web\\Components\\Pages\\Dashboard.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-17T01:17:06.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Web\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "LeaseMate.Web\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Web\\Components\\_Imports.razor",
+              "RelativeToolTip": "LeaseMate.Web\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-17T01:16:37.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Web\\Components\\App.razor",
+              "RelativeDocumentMoniker": "LeaseMate.Web\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Web\\Components\\App.razor",
+              "RelativeToolTip": "LeaseMate.Web\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-17T01:16:27.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Web\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "LeaseMate.Web\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\bauti\\OneDrive\\Documents\\Personal Project\\LeaseMate\\LeaseMate.Web\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "LeaseMate.Web\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-17T01:16:25.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
